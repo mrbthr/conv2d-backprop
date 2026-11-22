@@ -1,5 +1,3 @@
-# conv2d-backprop
-
 # Conv2D Backpropagation
 
 ![Python](https://shields.io)
